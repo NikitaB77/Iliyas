@@ -1,2 +1,3 @@
 itoday we are practicing on git hub topic
 hope this containt will get save
+data is taking from remote repo to local repo
